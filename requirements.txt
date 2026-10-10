@@ -1,0 +1,20 @@
+numpy==2.4.2
+pandas==3.0.0
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+cleanlab==2.9.0
+shap==0.53.0
+py-ciu==0.5.0.1
+tensorflow==2.20.0
+networkx==3.7
+scipy==1.18.1
+matplotlib==3.10.8
+seaborn==0.13.2
+sympy==1.14.0
+graphviz==0.21
+dill==0.4.1
+requests==2.34.2
+joblib==1.6.0
+jupyter==1.1.1
+nbconvert==7.17.1
+dexire @ git+https://github.com/mariotrerotola/DEXiRE.git@c68fa9e41765d883acf38ada1162c381f6e81e15

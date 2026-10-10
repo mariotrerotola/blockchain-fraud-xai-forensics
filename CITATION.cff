@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Blockchain Fraud Detection for Explainable Forensic Investigations: code"
+authors:
+  - family-names: Trerotola
+    given-names: Mario
+    orcid: "https://orcid.org/0009-0000-7052-4588"
+  - family-names: Calvaresi
+    given-names: Davide
+    orcid: "https://orcid.org/0000-0001-9816-7439"
+  - family-names: Parente
+    given-names: Mimmo
+    orcid: "https://orcid.org/0000-0002-4935-6003"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Blockchain Fraud Detection for Explainable Forensic Investigations"
+  authors:
+    - family-names: Trerotola
+      given-names: Mario
+    - family-names: Calvaresi
+      given-names: Davide
+    - family-names: Parente
+      given-names: Mimmo
+  publisher:
+    name: Springer
+  year: 2026
